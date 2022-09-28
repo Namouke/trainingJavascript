@@ -16,3 +16,28 @@ a {
     text-decoration: none;
     color: black;
 }
+
+body {
+    padding: 20px;
+}
+
+/* section 1 nav */
+
+.nav-section {
+    padding: 15px 20% 10px 20%;
+}
+
+.nav-contener {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-nav {
+    width: 100px;
+    height: 100px;
+}
+
+.link-nav {
+    padding: 5px;
+}
