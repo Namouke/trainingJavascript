@@ -10,3 +10,12 @@ let nombre = 3;
 
 var autreNombre =2;
 
+nombre = 25;
+
+let texte = "Bonjour";
+
+// ecrire dans la console
+
+console.log("brouette")
+console.log(nombre)
+console.log(texte)
