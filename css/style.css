@@ -1,0 +1,10 @@
+h1,h2,h3 {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+p {
+    background-color: yellow;
+    color: red;
+    size: 16px;
+}

@@ -6,3 +6,7 @@
 
 // confirm("Etes vous sûr")
 
+let nombre = 3;
+
+var autreNombre =2;
+
