@@ -9,6 +9,9 @@
         <title>Javascript Traning</title>
         
         <script src="/js/scripts.js" defer></script>
+        <script src="/js/calculator.js" defer></script>
+        <script src="/js/spendTime.js" defer></script>
+        
     </head>
 
     <body>
@@ -42,7 +45,22 @@
         <!-- section 3 Le jeu video -->
 
         <section class="gaming">
-            <h2>RasNamouke</h2>
+            <div>
+                <p>Il est parfois dfficile de voir ces chiffres mais cela peut
+                aussi refleter un veritable expérience de jeu et de passion,
+                certain voient cela comme une perte de temps quand je la vois
+                pour ce qu'elle sont réelement, des heures d'échapatoire et d'amusement.</p>
+                <div class="transform-hours">
+                    <label for="heures-input">Nombre d'heures passées sur le jeu</label>
+                    <input id="heures-input" type="number" min="1">
+                    <button id="bouton-vrais">Seul les vrais clique </button>
+                    <p id="annees"></p>
+                    <p id="mois"></p>
+                    <p id="jours"></p>
+                    <p id="secondes"></p>
+                </div>
+            </div>
+
         </section>
 
         <!-- Section 4 La cuisine -->
