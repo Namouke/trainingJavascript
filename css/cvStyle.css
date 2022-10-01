@@ -6,3 +6,17 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
+/* Section 1 Number Traning */
+
+/* Section 2 Data Traning */
+
+.training-data {
+    max-width: 850px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid #EEE;
+    margin: 25px;
+    padding: 13px;    
+}

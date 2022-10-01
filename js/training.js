@@ -25,5 +25,12 @@ boutonClick.addEventListener('click', () => {
 
 // Trainig Date
 
+var intitulerDeLentrainement = "Les types de données"
+var laDurerDeLentrainement = 45;
+var effectuerAujourdhui = false;
 
-
+document.querySelector('#validation-training').innerText =
+`Le nom du cours: ${intitulerDeLentrainement}
+Temps a consacrer: ${laDurerDeLentrainement} min
+${effectuerAujourdhui ? 'Training Fait' : 'Au boulot !'}`
+ 
