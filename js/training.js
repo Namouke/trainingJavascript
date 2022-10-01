@@ -1,4 +1,5 @@
 
+// Training Nombre  
 
 let heuresParJour = 24;
 let minutesParHeure = 60;
@@ -21,3 +22,8 @@ boutonClick.addEventListener('click', () => {
     secondes.innerText = `${calculeSecondes} secondes.`
     
 })
+
+// Trainig Date
+
+
+
