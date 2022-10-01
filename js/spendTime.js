@@ -22,4 +22,4 @@ boutonVrais.addEventListener('click', () => {
     mois.innerText = `${calculeMois} mois soit`;
     jours.innerText = `${calculeJours} jours soit`;
     secondes.innerText = `${calculeSecondes} secondes`;
-});
+}); 
