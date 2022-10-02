@@ -1,5 +1,5 @@
 
-// Training Nombre  
+// Section 1 Training Nombre  
 
 let heuresParJour = 24;
 let minutesParHeure = 60;
@@ -23,7 +23,7 @@ boutonClick.addEventListener('click', () => {
     
 })
 
-// Trainig Date
+// Section 2 Trainig Date
 
 var intitulerDeLentrainement = "Les types de données"
 var laDurerDeLentrainement = 45;
@@ -34,3 +34,4 @@ document.querySelector('#validation-training').innerText =
 Temps a consacrer: ${laDurerDeLentrainement} min
 ${effectuerAujourdhui ? 'Training Fait' : 'Au boulot !'}`
  
+// Section 3 Attriber des class 
